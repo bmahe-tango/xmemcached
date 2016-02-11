@@ -6,7 +6,7 @@ import net.rubyeye.xmemcached.monitor.Constants;
 import net.rubyeye.xmemcached.monitor.XMemcachedMbeanServer;
 import junit.framework.TestCase;
 
-public class XMemcachedMBeanServerUnitTest extends TestCase {
+public class XMemcachedMBeanServerIT extends TestCase {
 	Mock mock;
 
 	public void setUp() {
